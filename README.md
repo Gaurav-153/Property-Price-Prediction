@@ -8,7 +8,7 @@ level Intermediate
 
 ## ⏳ Dataset
 - Download the dataset for custom training and testing and model building.
-- 
+- https://github.com/Gaurav-153/Property-Price-Prediction/blob/master/Bengaluru_House_Data.csv
 
 ## :desktop_computer:	Installation
 - python 3.0 
